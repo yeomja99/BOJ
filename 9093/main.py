@@ -1,4 +1,3 @@
-
 def reverse_sentence(sentence):
     temp_word = list()
     result_word = list()
